@@ -1,0 +1,37 @@
+
+ CreateTime：2013-03-12 23:30:22,406 [5] 
+ Level：ERROR 
+ SourceClass：ErrorLogger [(null)] 
+error=> Message:未将对象引用设置到对象的实例。;
+StockTrack:   在 WeChat.Handler.RequestHandler.VerifySignature(String signature, String timestamp, String nonce) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 49
+   在 WeChat.Handler.RequestHandler.ValidationResponse(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 59
+   在 WeChat.Handler.RequestHandler.Process(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 29
+ 
+ 
+ CreateTime：2013-03-12 23:33:56,183 [8] 
+ Level：ERROR 
+ SourceClass：ErrorLogger [(null)] 
+error=> Message:未将对象引用设置到对象的实例。;
+StockTrack:   在 WeChat.Handler.RequestHandler.VerifySignature(String signature, String timestamp, String nonce) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 49
+   在 WeChat.Handler.RequestHandler.ValidationResponse(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 59
+   在 WeChat.Handler.RequestHandler.Process(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 29
+ 
+ 
+ CreateTime：2013-03-12 23:50:17,326 [12] 
+ Level：ERROR 
+ SourceClass：ErrorLogger [(null)] 
+error=> Message:未将对象引用设置到对象的实例。;
+StockTrack:   在 WeChat.Handler.RequestHandler.VerifySignature(String signature, String timestamp, String nonce) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 49
+   在 WeChat.Handler.RequestHandler.ValidationResponse(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 59
+   在 WeChat.Handler.RequestHandler.Process(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 29
+ 
+ 
+ CreateTime：2013-03-12 23:58:45,536 [8] 
+ Level：ERROR 
+ SourceClass：ErrorLogger [(null)] 
+error=> Message:未将对象引用设置到对象的实例。;
+StockTrack:   在 WeChat.Handler.RequestHandler.VerifySignature(String signature, String timestamp, String nonce) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 49
+   在 WeChat.Handler.RequestHandler.ValidationResponse(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 59
+   在 WeChat.Handler.RequestHandler.Process(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 29
+ 
+ 

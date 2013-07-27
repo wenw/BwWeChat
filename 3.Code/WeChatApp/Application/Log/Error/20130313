@@ -1,0 +1,84 @@
+
+ CreateTime：2013-03-13 00:17:41,678 [9] 
+ Level：ERROR 
+ SourceClass：ErrorLogger [(null)] 
+error=> Message:未将对象引用设置到对象的实例。;
+StockTrack:   在 WeChat.Handler.BizProcessor.Process(String post) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 59
+   在 WeChat.Handler.RequestHandler.ApiPostResponse(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 89
+   在 WeChat.Handler.RequestHandler.Process(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 25
+ 
+ 
+ CreateTime：2013-03-13 00:19:00,883 [5] 
+ Level：ERROR 
+ SourceClass：ErrorLogger [(null)] 
+error=> Message:索引超出了数组界限。;
+StockTrack:   在 WeChat.Handler.BizProcessor.ConvertToEntity[T](XmlDocument xml)
+   在 WeChat.Handler.BizProcessor.Process(String post)
+   在 WeChat.Handler.RequestHandler.ApiPostResponse(HttpContext context)
+   在 WeChat.Handler.RequestHandler.Process(HttpContext context)
+ 
+ 
+ CreateTime：2013-03-13 00:21:19,461 [6] 
+ Level：ERROR 
+ SourceClass：ErrorLogger [(null)] 
+error=> Message:索引超出了数组界限。;
+StockTrack:   在 WeChat.Handler.BizProcessor.ConvertToEntity[T](XmlDocument xml) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 152
+   在 WeChat.Handler.BizProcessor.Process(String post) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 62
+   在 WeChat.Handler.RequestHandler.ApiPostResponse(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 89
+   在 WeChat.Handler.RequestHandler.Process(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 25
+ 
+ 
+ CreateTime：2013-03-13 00:22:10,681 [19] 
+ Level：ERROR 
+ SourceClass：ErrorLogger [(null)] 
+error=> Message:索引超出了数组界限。;
+StockTrack:   在 WeChat.Handler.BizProcessor.ConvertToEntity[T](XmlDocument xml) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 152
+   在 WeChat.Handler.BizProcessor.Process(String post) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 62
+   在 WeChat.Handler.RequestHandler.ApiPostResponse(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 89
+   在 WeChat.Handler.RequestHandler.Process(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 25
+ 
+ 
+ CreateTime：2013-03-13 00:24:56,915 [5] 
+ Level：ERROR 
+ SourceClass：ErrorLogger [(null)] 
+error=> Message:未将对象引用设置到对象的实例。;
+StockTrack:   在 WeChat.Handler.BizProcessor.ConvertToXml(Object data) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 117
+   在 WeChat.Handler.BizProcessor.Process(MsgType type, Object data) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 104
+   在 WeChat.Handler.BizProcessor.Process(String post) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 63
+   在 WeChat.Handler.RequestHandler.ApiPostResponse(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 89
+   在 WeChat.Handler.RequestHandler.Process(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 25
+ 
+ 
+ CreateTime：2013-03-13 00:49:07,808 [7] 
+ Level：ERROR 
+ SourceClass：ErrorLogger [(null)] 
+error=> Message:未将对象引用设置到对象的实例。;
+StockTrack:   在 WeChat.Handler.BizProcessor.ConvertToXml(Object data) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 117
+   在 WeChat.Handler.BizProcessor.Process(MsgType type, Object data) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 104
+   在 WeChat.Handler.BizProcessor.Process(String post) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 63
+   在 WeChat.Handler.RequestHandler.ApiPostResponse(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 89
+   在 WeChat.Handler.RequestHandler.Process(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 25
+ 
+ 
+ CreateTime：2013-03-13 00:59:45,430 [10] 
+ Level：ERROR 
+ SourceClass：ErrorLogger [(null)] 
+error=> Message:索引超出了数组界限。;
+StockTrack:   在 WeChat.Handler.BizProcessor.ConvertToXml(Object data) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 126
+   在 WeChat.Handler.BizProcessor.Process(MsgType type, Object data) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 104
+   在 WeChat.Handler.BizProcessor.Process(String post) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 63
+   在 WeChat.Handler.RequestHandler.ApiPostResponse(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 89
+   在 WeChat.Handler.RequestHandler.Process(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 25
+ 
+ 
+ CreateTime：2013-03-13 01:00:44,912 [14] 
+ Level：ERROR 
+ SourceClass：ErrorLogger [(null)] 
+error=> Message:索引超出了数组界限。;
+StockTrack:   在 WeChat.Handler.BizProcessor.ConvertToXml(Object data) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 126
+   在 WeChat.Handler.BizProcessor.Process(MsgType type, Object data) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 104
+   在 WeChat.Handler.BizProcessor.Process(String post) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\BizProcessor.cs:行号 63
+   在 WeChat.Handler.RequestHandler.ApiPostResponse(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 89
+   在 WeChat.Handler.RequestHandler.Process(HttpContext context) 位置 d:\Source\WeChatApp\3.Code\WeChatApp\Handler\RequestHandler.cs:行号 25
+ 
+ 

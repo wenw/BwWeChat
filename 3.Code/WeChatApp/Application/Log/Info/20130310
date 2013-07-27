@@ -1,0 +1,80 @@
+
+日志时间：2013-03-10 19:47:35,216 [7] 
+日志级别：INFO  
+日 志 类：InfoLogger [(null)] 
+Validation=>signature:, timestamp:, nonce:, echostr:, result:DD4F10C3EA2E575EE1FAF93184DEF40675377485 
+
+ CreateTime：2013-03-10 21:06:16,289 [7] 
+ Level：INFO  
+ SourceClass：InfoLogger [(null)] 
+Validation=>signature:, timestamp:, nonce:, echostr:, result:DD4F10C3EA2E575EE1FAF93184DEF40675377485 
+
+ CreateTime：2013-03-10 21:06:16,382 [7] 
+ Level：INFO  
+ SourceClass：InfoLogger [(null)] 
+request=> Post:[], Get:[] 
+
+ CreateTime：2013-03-10 21:08:17,651 [8] 
+ Level：INFO  
+ SourceClass：InfoLogger [(null)] 
+Validation=>signature:, timestamp:, nonce:, echostr:, result:DD4F10C3EA2E575EE1FAF93184DEF40675377485 
+
+ CreateTime：2013-03-10 21:08:17,730 [8] 
+ Level：INFO  
+ SourceClass：InfoLogger [(null)] 
+request=> Post:[], Get:[] 
+
+ CreateTime：2013-03-10 21:12:20,134 [13] 
+ Level：INFO  
+ SourceClass：InfoLogger [(null)] 
+Validation=>signature:, timestamp:, nonce:, echostr:, result:DD4F10C3EA2E575EE1FAF93184DEF40675377485 
+
+ CreateTime：2013-03-10 21:12:54,768 [7] 
+ Level：INFO  
+ SourceClass：InfoLogger [(null)] 
+Validation=>signature:, timestamp:, nonce:, echostr:, result:DD4F10C3EA2E575EE1FAF93184DEF40675377485 
+
+ CreateTime：2013-03-10 21:12:54,845 [7] 
+ Level：INFO  
+ SourceClass：InfoLogger [(null)] 
+request=> Post:[], Get:[] 
+
+ CreateTime：2013-03-10 21:12:58,770 [7] 
+ Level：INFO  
+ SourceClass：InfoLogger [(null)] 
+Validation=>signature:, timestamp:, nonce:, echostr:, result:DD4F10C3EA2E575EE1FAF93184DEF40675377485 
+
+ CreateTime：2013-03-10 21:12:58,772 [7] 
+ Level：INFO  
+ SourceClass：InfoLogger [(null)] 
+request=> Post:[], Get:[null] 
+
+ CreateTime：2013-03-10 21:13:11,715 [12] 
+ Level：INFO  
+ SourceClass：InfoLogger [(null)] 
+Validation=>signature:, timestamp:, nonce:, echostr:, result:DD4F10C3EA2E575EE1FAF93184DEF40675377485 
+
+ CreateTime：2013-03-10 21:13:11,728 [12] 
+ Level：INFO  
+ SourceClass：InfoLogger [(null)] 
+request=> Post:[], Get:["fdsfasfd"] 
+
+ CreateTime：2013-03-10 21:49:46,796 [8] 
+ Level：INFO  
+ SourceClass：InfoLogger [(null)] 
+Validation=>signature:, timestamp:, nonce:, echostr:, result:DD4F10C3EA2E575EE1FAF93184DEF40675377485 
+
+ CreateTime：2013-03-10 21:49:46,822 [8] 
+ Level：INFO  
+ SourceClass：InfoLogger [(null)] 
+request=> Post:, Get:http://localhost:1909/ExtAppSvc.ashx?fdsfasfd=fsfasf, IP:::1; 
+
+ CreateTime：2013-03-10 22:16:51,382 [9] 
+ Level：INFO  
+ SourceClass：InfoLogger [(null)] 
+Validation=>signature:, timestamp:, nonce:, echostr:, result:DD4F10C3EA2E575EE1FAF93184DEF40675377485 
+
+ CreateTime：2013-03-10 22:17:05,179 [9] 
+ Level：INFO  
+ SourceClass：InfoLogger [(null)] 
+request=> Post:, Get:http://localhost:1909/ExtAppSvc.ashx?fdsfasfd=fsfasf, IP:::1; 
